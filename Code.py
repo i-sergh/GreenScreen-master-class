@@ -23,6 +23,11 @@ while True:
     cv2.imshow('before change', frame )
 
     frame [frame_clr == 255] = img[frame_clr == 255]
+
+    # >_ замена искомого цвета на кадре изображения frame на цвет 
+    #     по пикселям с массива frame_clr
+    # >_ ДЕАКТИВИРОВАНО для оакивации нужно удалить решётку перед командой
+    #frame [frame_clr == 255] = (200, 50, 100) # <- это фиолетовый
     
     cv2.imshow('after change', frame )
     cv2.imshow('color-mask', frame_clr )
