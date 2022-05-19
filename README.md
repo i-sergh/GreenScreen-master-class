@@ -20,3 +20,6 @@
 <b><a href= https://twitter.com/SerghjyStrange> Сергей ( ноет ) в twitter</a> <p></b>
 
 <b><p>Email: <a href= mailto:seripp28@gmail.com>  seripp28@gmail.com</a></p></b>
+
+
+![qr-code](https://user-images.githubusercontent.com/63306343/169300638-6d5d0264-3d13-4d46-bd7f-8b68b14543ce.gif)
