@@ -1,4 +1,28 @@
-# Компьютерное зрение  
+<head>
+  <style type="text/css">
+   .block1 { 
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+   }
+   .block2 { 
+    width: 200px; 
+    background: #fc0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    float: left; 
+    position: relative; 
+    top: 40px; 
+    left: -70px; 
+   }
+  </style> 
+ 
+ </head>
+<body>
+<div class="block2"># Компьютерное зрение </div>  
 Код к мастер-классу "Компьютерное зрение".  Детский технопарк Кванториум "Москва"
 # Контакты
 ## Технопарк: 
@@ -8,8 +32,9 @@
  <b><p>8-915-334-63-88 </p></b>
 
  <b><p> Email: <a href= mailto:seripp28@gmail.com> technopark_moscow@hotmail.com </a></p></b>
+
  
-## Сергей, собственной персоной 
+<div class="block1"> ## Сергей, собственной персоной </div> 
 #### ( ведущий мастер-класса и занятий по компьютерному зрению )
 
 <p> по любым вопросам о языке python и компьютерному зрению обращаться сюда (подготовка, установка, настройка, дополнительные материалы) </p>
@@ -23,3 +48,4 @@
 
 
 ![qr-code](https://user-images.githubusercontent.com/63306343/169300638-6d5d0264-3d13-4d46-bd7f-8b68b14543ce.gif)
+</body>
