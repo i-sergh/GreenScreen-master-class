@@ -1,5 +1,7 @@
+ <!DOCTYPE HTML>
 <html>
 <head>
+
   <style type="text/css">
    .block1 { 
     width: 200px; 
